@@ -1,4 +1,4 @@
-#Homework 4. Домашняя работа на среду 06.02.
+# Homework 4. Домашняя работа на среду 06.02.
 Создать ветку от существующего проекта gitHub: https://github.com/AndesTechConsulting3/JavaSE-Day08-Homework4.git 
 Имя ветки должно содержать строку rfb, например VasilyPetrov-rfb-branch-home4.
 
